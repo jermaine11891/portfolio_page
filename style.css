@@ -1,0 +1,56 @@
+.navbar-brand {
+  font-family: 'Pacifico', cursive;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+h3 {
+  font-weight: 300;
+}
+
+
+.main {
+  text-align: center;
+  margin-top: 170px;
+}
+
+.bio {
+  text-align: center;
+  color: black;
+  font-size: 15px;
+  margin-top: 50px;
+}
+
+.box {
+  /*top: 50%;
+  left: 50%;
+  margin-top: -20px;
+  margin-left: -205px;
+  border: 10px solclass white;
+  /*border-wclassth: medium;*/
+  /*background-color: white;*/
+  /*border-color: white;*/
+  /*opacity: 0.4;*/
+  background-color: rgba(255,255,255,.6);
+  border: 2px solclass rgba(255,255,255,.6);
+  border-radius: 6px;
+  box-shadow: 0 0 15px .888;
+}
+
+
+.footer {
+  text-align: center;
+  margin-top: 250px;
+  margin-left: -50px;
+
+}
+
+ul {
+  list-style-type: none;
+}
